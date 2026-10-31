@@ -8,7 +8,7 @@ First-year CSE (AI & Data Engineering) student at VIT Vellore. I build software 
 - **[Misrule](https://coder1234a.github.io/misrule/)**: a platformer where every level secretly changes one law of physics. Code2Create 7.0.
 - **[ThaliMetrics](https://coder1234a.github.io/ThaliMetrics/)**: mess nutrition and food-waste tracker. NutriHack 2026.
 
-🏆 Cloud Nexus 2026 (VIT): first runners-up · Smart India Hackathon 2026: cleared VIT internal round
+🏆 Cloud Nexus 2026 (VIT): first runners-up, cash prize + internship opportunity with TRELLISIGN · Smart India Hackathon 2026: cleared VIT internal round
 
 **Stack:** Python, JavaScript, SQL · Flask, Node.js, Express, React · PostgreSQL · Gemini API, RAG · Git, Render
 
